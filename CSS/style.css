@@ -1,0 +1,62 @@
+body{
+    font-family: "Comic Sans MS", cursive, sans-serif ;
+    font-size:11px;
+    color: black;
+}
+
+#HContainer{
+    background-color: #eeefee;
+    padding: .5px;
+    padding-left: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border: 1px solid;
+    position: relative;
+    margin: auto;
+}
+
+#holder{
+    width: 700px;
+    margin: auto;
+}
+
+
+h2{
+    font-size: 11px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#container{
+    border-color: black;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 15px;
+    background-color: white;
+    border: 1px solid;
+    position: relative; 
+}
+
+.zero{
+   width: 160px;
+}
+
+input, .zero{
+    margin-bottom: 15px;
+}
+.first{
+    width: 50%;
+}
+.second{
+    margin-right: 10px;
+}
+.third{
+    margin-left: 10px;
+}
+
+#button{
+    text-align: center;
+}
+#save, #cancel{
+    width: 90px;
+    height: 25px;
+}
